@@ -16,7 +16,7 @@ html {
 
 .first-page {
     height: 100vh;
-    background-image: url(eee.jpg);
+    background-image: url(front_image.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -93,12 +93,12 @@ a:hover {
 }
 
 #section1{
-    background-image:url(fff.jpg);
+    background-image:url(about_image.jpg);
     background-size: cover;
 }
 
 #section2{
-    background-image: url(ggg.jpg);
+    background-image: url(service_image.jpg);
     background-size: cover;
 }
 
